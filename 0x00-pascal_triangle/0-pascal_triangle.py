@@ -16,6 +16,3 @@ def pascal_triangle(n):
                 value = value * (row_number - position) // position
             triangle.append(row)
     return triangle
-
-
-print(pascal_triangle(5))
