@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """ Function to print a Pascal Triangle """
 
+
 def pascal_triangle(n):
     """
     Create a function that returns a list of lists
