@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """minimum operation module"""
 
+
 def minOperations(n):
     """minimum operations to reach n from 1"""
     if (n < 2):
