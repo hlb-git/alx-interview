@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """ Rotate 2D Matrix """
-       
+
 
 def rotate_2d_matrix(m):
     """main function: rotates a 2d array 90 deg"""
